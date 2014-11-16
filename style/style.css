@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/Keynote wallaper.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+h1{
+	color: #454545;
+	font-size: 48px;
+}
+
+h2{
+	font-size: 20px;
+}
+
+h5{color: silver;}
+
+h6{color: silver;}
+
+p{
+	color: silver;
+}
+
+div{
+	border-width: 1px;
+	border-style: solid;
+	border-color: silver;
+	margin: 1px;
+	padding: 00px;
+	text-align: center;
+}
+
+.row{
+	text-align: center;
+
+}
+
+.with_silver{
+	background-color: none;
+}
